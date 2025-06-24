@@ -1,0 +1,6 @@
+:test>
+    &"echo hello world!"
+<
+:main>
+    !test
+<
